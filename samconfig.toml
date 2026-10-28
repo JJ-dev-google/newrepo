@@ -1,9 +1,9 @@
 version = 0.1
 
 [default.deploy.parameters]
-stack_name = "sam-login-rahul"
+stack_name = "sam-login-jj"
 resolve_s3 = true
-s3_prefix = "sam-login-rahul"
+s3_prefix = "sam-login-jj"
 region = "us-east-1"
 confirm_changeset = false
 capabilities = "CAPABILITY_IAM"
